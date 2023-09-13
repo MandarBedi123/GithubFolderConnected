@@ -1,0 +1,21 @@
+.full{
+    background-color: rgb(0, 255, 255);
+    /* background-color: yellow; */
+    text-align: center;
+    color: blueviolet;
+}
+
+#box{
+    background-color: white;
+    border: 5px solid greenyellow;
+    margin: 10px;
+    font-size: 100px;
+    display: inline-block;
+    padding: 100px;
+}
+button{
+    background-color: white;
+    border: 5px solid greenyellow;
+    margin: 10px;
+    padding: 10px;
+}
